@@ -42,18 +42,17 @@ adb       = join( drv, adb )
 
 
 urls = [
-         [ "https://www.newegg.com/p/N82E16868110292", "SOLD OUT", "Newegg", 1 ],
-         [ "https://www.newegg.com/p/N82E16868110291", "SOLD OUT", "Newegg", 1 ],
-         [ "https://www.newegg.com/p/N82E16868110293", "SOLD OUT", "Newegg", 1 ],
+         [ "https://www.newegg.com/p/N82E16868110292", "SOLD OUT", "Newegg", 0 ],
+         [ "https://www.newegg.com/p/N82E16868110291", "SOLD OUT", "Newegg", 0 ],
+         [ "https://www.newegg.com/p/N82E16868110293", "SOLD OUT", "Newegg", 0 ],
 
-         [ "https://www.walmart.com/ip/Sony-PlayStation-5-Digital-Edition/493824815", "now available at", "Walmart", 1],
-         [ "https://www.walmart.com/ip/PlayStation-5-Console/363472942", "now available at", "Walmart", 1],
+         [ "https://www.walmart.com/ip/Sony-PlayStation-5-Digital-Edition/493824815", "now available at", "Walmart", 0],
+         [ "https://www.walmart.com/ip/PlayStation-5-Console/363472942", "now available at", "Walmart", 0],
 
-         [ 'https://www.target.com/p/playstation-5-console/-/A-81114595', 'shouldShowCurbsideMessage":false' ,'Target', 1],
-         [ 'https://www.target.com/p/playstation-5-digital-edition-console/-/A-81114596', 'shouldShowCurbsideMessage":false' ,'Target', 1],
+         [ 'https://www.target.com/p/playstation-5-console/-/A-81114595', 'shouldShowCurbsideMessage":false' ,'Target', 0],
+         [ 'https://www.target.com/p/playstation-5-digital-edition-console/-/A-81114596', 'shouldShowCurbsideMessage":false' ,'Target', 0],
 
-         [ "https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG", "Currently unavailable.", "Amazon", 1],
-         [ "https://www.amazon.com/PlayStation-5-Digital/dp/B08FC6MR62", "Currently unavailable.", "Amazon", 1]
+         [ "https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG", "Currently unavailable.", "Amazon", 0],
        ]
 
 
