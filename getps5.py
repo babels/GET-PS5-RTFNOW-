@@ -8,7 +8,9 @@
 ### one to three letter variables you may have the impression that I spent years learning to program
 ### just to basterdize well known concepts for your personal benifit and or detriment. You'd be right!
 
-### INSTRUCTIONS: https://www.youtube.com/watch?v=ewRjZoRtu0Y
+### INSTRUCTIONS: This script requires python2 android adb path set on the appropriate line, and a android 8.0
+     phone plugged into the computer with adb enabled under developer options on that phone
+     https://www.youtube.com/watch?v=ewRjZoRtu0Y
 
 
 from  urllib2  import  Request, urlopen
