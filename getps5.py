@@ -1,5 +1,5 @@
 ### WARNING: Running this script outside of the USA "Free Zone" may not be permitted by your Locale.
-###          Pleasae check and abide all ordinces ever
+###          Please check and abide all ordinces ever
 
 ### NOTICE:  The following script is freely distributed under the Dread License Roberts.
 ###          If it finds itself used to turn a profit, cused ye will be... cursed
